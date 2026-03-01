@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shiver",
+  "base_artist": "the GazettE",
+  "createdAt": "2026-03-01T07:00:46.080845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Shiver_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Shiver_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "shiver",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/03_shiver_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake And Shiver",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/04_Shake_And_Shiver_Yello.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In Between Days (Shiver Mix)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/05_In_Between_Days_(Shiver_Mix)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shiver (Live)",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/06_Shiver_(Live)_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/07_Shiver_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shiver - DJ Quick Remix",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/08_Shiver_-_DJ_Quick_Remix_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiver (DJ Quick)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/09_Shiver_(DJ_Quick)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shiver And Shake",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/10_Shiver_And_Shake_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slave Called Shiver",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/11_Slave_Called_Shiver_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Turnover",
+      "has_synced": true,
+      "path": "select/12_Shiver_Turnover.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slave Called Shiver",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/13_Slave_Called_Shiver_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inbetween Days (Shiver Mix)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/14_Inbetween_Days_(Shiver_Mix)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "To Shiver in Empty Halls",
+      "artist": "My Dying Bride",
+      "has_synced": true,
+      "path": "select/15_To_Shiver_in_Empty_Halls_My_Dying_Bride.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Brainstorm",
+      "has_synced": false,
+      "path": "select/16_Shiver_Brainstorm.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shiver",
+      "artist": "Jónsi",
+      "has_synced": false,
+      "path": "select/17_Shiver_Jónsi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHIVER",
+      "artist": "the GazettE",
+      "has_synced": false,
+      "path": "select/pl_01_SHIVER_the_GazettE.txt"
+    }
+  ]
+}
